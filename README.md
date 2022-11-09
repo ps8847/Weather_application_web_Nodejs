@@ -19,3 +19,12 @@ till then , you can see the preview of the application
 
 ##3
 ![](readImages/ss3.png)
+
+
+If you want to run this application and have knowledge of Nodejs . then you are good to go...
+
+steps1: download and extract the code and open it on vsCode/ your code editor
+steps2: go to terminal of code's main folder location and type the command 
+        "npm start"
+        
+here u go...😊
